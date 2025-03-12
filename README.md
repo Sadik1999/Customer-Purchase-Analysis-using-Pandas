@@ -1,6 +1,8 @@
 ## Customer-Purchase-Analysis-using-Pandas
 
-# This project analyzes customer purchase data using Pandas in Jupyter Notebook. The dataset includes customer details, professions, credit card information, spending habits, and more.
+# Overview
+
+This project analyzes customer purchase data using Pandas in Jupyter Notebook. The dataset includes customer details, professions, credit card information, spending habits, and more.
 
 # Key Insights Extracted:
 ✅ Total entries and columns in the dataset
