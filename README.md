@@ -29,6 +29,6 @@ This project analyzes customer purchase data using Pandas in Jupyter Notebook. T
 - Jupyter Notebook 📒
 
 # How to Run:
-Clone this repository
-Install dependencies: pip install pandas jupyter
-Open the Jupyter Notebook and run the analysis
+- Clone this repository
+- Install dependencies: pip install pandas jupyter
+- Open the Jupyter Notebook and run the analysis
