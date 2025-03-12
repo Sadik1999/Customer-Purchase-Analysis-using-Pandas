@@ -1,4 +1,4 @@
-# Customer-Purchase-Analysis-using-Pandas
+# Customer Purchase Analysis using Pandas
 
 ## Overview
 
