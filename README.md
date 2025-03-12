@@ -1,10 +1,10 @@
-## Customer-Purchase-Analysis-using-Pandas
+# Customer-Purchase-Analysis-using-Pandas
 
-# Overview
+## Overview
 
 This project analyzes customer purchase data using Pandas in Jupyter Notebook. The dataset includes customer details, professions, credit card information, spending habits, and more.
 
-# Key Insights Extracted:
+## Key Insights Extracted:
 ✅ Total entries and columns in the dataset
 ✅ Age distribution (max, min, average)
 ✅ Most common customer names
@@ -23,7 +23,7 @@ This project analyzes customer purchase data using Pandas in Jupyter Notebook. T
 ✅ Customers using emails with "am.edu"
 ✅ Most active day of the week for customer visits
 
-# Technologies Used:
+## Technologies Used:
 📌 Python 🐍
 📌 Pandas 🏷️
 📌 Jupyter Notebook 📒
