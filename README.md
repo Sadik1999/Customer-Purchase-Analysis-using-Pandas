@@ -5,9 +5,9 @@
 This project analyzes customer purchase data using Pandas in Jupyter Notebook. The dataset includes customer details, professions, credit card information, spending habits, and more.
 
 ## Key Insights Extracted:
-✅ Total entries and columns in the dataset
-✅ Age distribution (max, min, average)
-✅ Most common customer names
+✅ Total entries and columns in the dataset.
+✅ Age distribution (max, min, average).
+✅ Most common customer names.
 ✅ Duplicate phone numbers
 ✅ Structural Engineer count (overall & by gender)
 ✅ Female Structural Engineers in Alberta (AB)
